@@ -15,9 +15,9 @@ Object.defineProperty(exports, "__esModule", { value: true });
 //     return a + b 
 // }
 // Les fonctions fléchées
-let somme = (a, b) => {
-    return a + b;
-};
+// let somme =  (a:number, b:number):number => {
+//     return a + b 
+// }
 // Appels 
 //fonctions régulières 
 // Version 1
@@ -27,5 +27,5 @@ let somme = (a, b) => {
 // fonction anonyme
 // console.log(`2 + 3 = ${somme(2,3)}`)
 // fonction fléchée
-console.log(`2 + 3 = ${somme(2, 3)}`);
+// console.log(`2 + 3 = ${somme(2,3)}`)
 //# sourceMappingURL=fonctions.js.map
