@@ -1,5 +1,6 @@
 // le ; n'est pas obligatoire 
-// Exemples de déclarations et d'initialisations :
+// Exemples de déclarations et d'initialisations : 
+
 // Déclaration sans initialisation 
 let nombre: number;
 let texte: string;

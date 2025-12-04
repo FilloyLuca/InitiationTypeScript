@@ -1,5 +1,6 @@
 // le ; n'est pas obligatoire 
 // Exemple d'utilisation du mécanisme d'inférence :
+
 // Déclaration avec le mecanisme d'interference 
 let nombre = 33.7;
 let texte = "Typescript est un langage avec un typage statique";
