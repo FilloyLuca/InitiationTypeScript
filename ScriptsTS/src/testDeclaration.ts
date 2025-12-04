@@ -1,4 +1,5 @@
 // le ; n'est pas obligatoire 
+// Exemples de déclarations et d'initialisations :
 // Déclaration sans initialisation 
 let nombre: number;
 let texte: string;
@@ -13,3 +14,4 @@ varlog = true
 console.log(`Type de nombre -> ${typeof(nombre)}`);
 console.log(`Type de texte -> ${typeof(texte)}`);
 console.log(`Type de varlog -> ${typeof(varlog)}`);
+
