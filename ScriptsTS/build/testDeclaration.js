@@ -1,7 +1,7 @@
 "use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 // le ; n'est pas obligatoire 
-// Exemples de déclarations et d'initialisations :
+// Exemples de déclarations et d'initialisations : 
+Object.defineProperty(exports, "__esModule", { value: true });
 // Déclaration sans initialisation 
 let nombre;
 let texte;

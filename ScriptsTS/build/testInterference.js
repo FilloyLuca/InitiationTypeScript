@@ -1,7 +1,7 @@
 "use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 // le ; n'est pas obligatoire 
 // Exemple d'utilisation du mécanisme d'inférence :
+Object.defineProperty(exports, "__esModule", { value: true });
 // Déclaration avec le mecanisme d'interference 
 let nombre = 33.7;
 let texte = "Typescript est un langage avec un typage statique";
